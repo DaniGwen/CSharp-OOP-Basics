@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pvv8pp1BjDcMMu3tRfMLwq5dSzwaW27PYRmC09+MVqj31545DgwDUtmJKAE/hVZs6fD7Nv1G0M6/uWF4ua0ZBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AW\\Documents\\GitHub\\CSharp-OOP Basics\\04.PizzaCalories\\04.PizzaCalories\\04.PizzaCalories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\AW\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.1\Problem 3. Shopping Spree.exe
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.1\Problem 3. Shopping Spree.deps.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.1\Problem 3. Shopping Spree.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.1\Problem 3. Shopping Spree.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.1\Problem 3. Shopping Spree.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.1\Problem 3. Shopping Spree.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.csprojAssemblyReference.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.1\Problem 3. Shopping Spree.genruntimeconfig.cache

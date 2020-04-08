@@ -1,0 +1,12 @@
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\bin\Debug\netcoreapp2.0\SoftUniRestaurant.deps.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\bin\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\bin\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csprojAssemblyReference.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\CSharpOOPBasicsExam080420\obj\Debug\netcoreapp2.0\SoftUniRestaurant.genruntimeconfig.cache

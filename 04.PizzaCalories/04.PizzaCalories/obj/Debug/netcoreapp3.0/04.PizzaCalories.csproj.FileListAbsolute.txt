@@ -1,0 +1,13 @@
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\bin\Debug\netcoreapp3.0\04.PizzaCalories.exe
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\bin\Debug\netcoreapp3.0\04.PizzaCalories.deps.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\bin\Debug\netcoreapp3.0\04.PizzaCalories.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\bin\Debug\netcoreapp3.0\04.PizzaCalories.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\bin\Debug\netcoreapp3.0\04.PizzaCalories.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\bin\Debug\netcoreapp3.0\04.PizzaCalories.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.csprojAssemblyReference.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\04.PizzaCalories\04.PizzaCalories\obj\Debug\netcoreapp3.0\04.PizzaCalories.genruntimeconfig.cache

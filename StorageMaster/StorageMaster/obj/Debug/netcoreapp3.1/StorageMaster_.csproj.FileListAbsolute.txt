@@ -1,0 +1,13 @@
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.csprojAssemblyReference.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster_.exe
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster_.deps.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster_.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster_.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster_.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\bin\Debug\netcoreapp3.1\StorageMaster_.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\StorageMaster\StorageMaster\obj\Debug\netcoreapp3.1\StorageMaster_.genruntimeconfig.cache

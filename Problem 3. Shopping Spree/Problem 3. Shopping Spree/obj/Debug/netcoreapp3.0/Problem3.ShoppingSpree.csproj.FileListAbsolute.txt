@@ -1,0 +1,12 @@
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.0\Problem3.ShoppingSpree.exe
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.0\Problem3.ShoppingSpree.deps.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.0\Problem3.ShoppingSpree.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.0\Problem3.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.0\Problem3.ShoppingSpree.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\bin\Debug\netcoreapp3.0\Problem3.ShoppingSpree.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.0\Problem3.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.0\Problem3.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.0\Problem3.ShoppingSpree.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.0\Problem3.ShoppingSpree.dll
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.0\Problem3.ShoppingSpree.pdb
+C:\Users\AW\Documents\GitHub\CSharp-OOP Basics\Problem 3. Shopping Spree\Problem 3. Shopping Spree\obj\Debug\netcoreapp3.0\Problem3.ShoppingSpree.genruntimeconfig.cache
