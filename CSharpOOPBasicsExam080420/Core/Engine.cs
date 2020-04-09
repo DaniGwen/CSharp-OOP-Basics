@@ -106,10 +106,10 @@ namespace SoftUniRestaurant.Core
                         break;
                     }
                 case "GetFreeTablesInfo":
-                    Console.WriteLine(this.restaurantController.GetFreeTablesInfo());
+                    Console.Write(this.restaurantController.GetFreeTablesInfo());
                     break;
                 case "GetOccupiedTablesInfo":
-                    Console.WriteLine(this.restaurantController.GetOccupiedTablesInfo());
+                    Console.Write(this.restaurantController.GetOccupiedTablesInfo());
                     break;
             }
 
